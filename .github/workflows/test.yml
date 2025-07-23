@@ -1,3 +1,5 @@
+# written by ChatGPT
+
 name: Run Echo Model Test
 
 on: [push, pull_request]
